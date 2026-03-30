@@ -1,6 +1,6 @@
 # AI Purchase Recommendation System
 
-This project is a simple console-based AI recommendation system that generates sample purchase data, trains a basic recommendation engine, and lets a user query recommendations and customer insights.[attached_file:1][attached_file:2][attached_file:3]
+This project is a simple console-based AI recommendation system that generates sample purchase data, trains a basic recommendation engine, and lets a user query recommendations and customer insights.
 
 ## Components
 
