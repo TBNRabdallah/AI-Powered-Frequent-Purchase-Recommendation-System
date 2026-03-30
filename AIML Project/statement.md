@@ -29,7 +29,7 @@ This project is a simple console-based AI recommendation system that generates s
       - Similar products to those already bought.
       - Purchases of similar customers.
       - Frequent co-purchase patterns.
-    - `get_customer_insights(customer_id, purchase_data)` returns summary stats for a customer (totals, unique products, favorite category, average quantity, and purchase frequency).[attached_file:3]
+    - `get_customer_insights(customer_id, purchase_data)` returns summary stats for a customer (totals, unique products, favorite category, average quantity, and purchase frequency).
 
 ## Dependencies
 
@@ -37,8 +37,8 @@ This project is a simple console-based AI recommendation system that generates s
 - Libraries:
   - `pandas` for tabular data handling.[attached_file:1][attached_file:2][attached_file:3]
   - `numpy` for numerical operations.[attached_file:2][attached_file:3]
-  - `scikit-learn` (`sklearn.metrics.pairwise`, `sklearn.feature_extraction.text`) for similarity computations and feature extraction.[attached_file:3]
-  - `collections` (`defaultdict`) for counting frequent patterns.[attached_file:3]
+  - `scikit-learn` (`sklearn.metrics.pairwise`, `sklearn.feature_extraction.text`) for similarity computations and feature extraction.
+  - `collections` (`defaultdict`) for counting frequent patterns.
 
 ## Usage
 
@@ -47,4 +47,4 @@ This project is a simple console-based AI recommendation system that generates s
 3. Use the console menu to:
    - Enter a customer ID to get product recommendations.
    - View insights for a specific customer.
-   - Inspect sample purchase data and available products.[attached_file:1]
+   - Inspect sample purchase data and available products.
